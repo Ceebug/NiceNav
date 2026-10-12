@@ -1,0 +1,8 @@
+.titlebar-buttonbox-container {
+  padding: 6px;
+  padding-left: 0px;
+}
+.titlebar-button {
+  padding: 8px 16px !important;
+  border-radius: 50%;
+}
