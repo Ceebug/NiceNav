@@ -5,7 +5,9 @@ A minimal patch for Firefox that unifies the top bar interface layout.
 ## What it does
 **NiceNav** overrides default firefox styling to make the window navigation controls (Minimize, Maximize, Close) look exactly the same when hovered over as any other button that lives on the browser chrome right next to them.
 
-This only changes windows and linux, since macos uses a completely seperate system (heck  I don't even know if this actually affects Linux, and won't try since I'm not installing Linux to test).
+> [!IMPORTANT]
+> **NiceNav is *not* supported on macOS**<br>
+> This is because the macOS navigation controls cant have this applied to them and even if they could, it would look bad.
 
 ## Comparison
 
