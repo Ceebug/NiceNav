@@ -1,10 +1,18 @@
 .titlebar-buttonbox-container {
-  padding: 6px 0 6px 6px;
+	padding: 6px 6px 6px 0;
 }
 
 .titlebar-button {
-  padding: 8px 16px !important;
-  border-radius: 50%;
+	padding: var(--toolbarbutton-padding-inner) !important;
+	border-radius: var(--toolbarbutton-border-radius);
 }
 
-/* yes, this is all that's needed xD but it took 30 minutes to figure out the right classes */
+.titlebar-button::before {
+	min-width: 16px;
+	min-height: 16px;
+	display: flex !important;
+	justify-content: center;
+	align-items: center;
+}
+
+/* so simple, yet took about an hour */
