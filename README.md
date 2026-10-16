@@ -7,6 +7,14 @@ A minimal patch for Firefox that unifies the top bar interface layout.
 
 This only changes windows and linux, since macos uses a completely seperate system (heck  I don't even know if this actually affects Linux, and won't try since I'm not installing Linux to test).
 
+## Comparison
+
+### Before
+![What the window navigation controls look without NiceNav.](comparison/before.avif)
+### After
+![What the window navigation controls look like with NiceNav.](comparison/after.avif)
+
+
 ## How to Install
 > [!NOTE]
 > If you already have a userChrome.css, skip all the steps, just append the code inside this repository's `userChrome.css` to the end of your userChrome.css
