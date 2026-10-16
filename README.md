@@ -10,9 +10,9 @@ This only changes windows and linux, since macos uses a completely seperate syst
 ## Comparison
 
 ### Before
-![What the window navigation controls look without NiceNav.](comparison/before.avif)
+![What the window navigation controls look without NiceNav.](comparisons/before.avif)
 ### After
-![What the window navigation controls look like with NiceNav.](comparison/after.avif)
+![What the window navigation controls look like with NiceNav.](comparisons/after.avif)
 
 
 ## How to Install
