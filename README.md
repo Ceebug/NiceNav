@@ -17,7 +17,7 @@ This only changes windows and linux, since macos uses a completely seperate syst
 
 ## How to Install
 > [!NOTE]
-> If you already have a userChrome.css, skip all the steps, just append the code inside this repository's `userChrome.css` to the end of your userChrome.css
+> If you already have a `userChrome.css`, skip all the steps, just append the code inside this repository's `userChrome.css` to the end of your `userChrome.css`.
 
 1. Open a new tab in Firefox and go to `about:config`.
 2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to **true**.
