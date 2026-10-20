@@ -27,3 +27,7 @@ A minimal patch for Firefox that unifies the top bar interface layout.
 4. Create a folder named `chrome` if it does not already exist.
 5. Save this repository's `userChrome.css` file directly inside that `chrome` folder.
 6. Restart Firefox.
+
+> [!TIP]
+> **Don't be an idiot**<br>
+> Make sure to save any work you care about.
